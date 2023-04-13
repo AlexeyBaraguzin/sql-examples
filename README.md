@@ -32,7 +32,7 @@ ORDER BY Количество;
 
 ### Структура и наполнение таблицы book
 
-![SNT](https://github.com/AlexeyBaraguzin/sql-examples/blob/main/assets/left_join_snt.jpg)
+![SNT](https://github.com/AlexeyBaraguzin/sql-examples/blob/main/assets/in_snt.jpg)
 
 ### SQL запрос
 
