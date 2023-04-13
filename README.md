@@ -8,11 +8,11 @@
 
 ![LSBD](https://github.com/AlexeyBaraguzin/sql-examples/blob/main/assets/left_join_lsbd.jpg)
 
-## Структура и наполнение таблиц
+### Структура и наполнение таблиц
 
 ![SNT](https://github.com/AlexeyBaraguzin/sql-examples/blob/main/assets/left_join_snt.jpg)
 
-## SQL запрос
+### SQL запрос
 
 ```SQL
 SELECT name_author, SUM(amount) AS Количество
