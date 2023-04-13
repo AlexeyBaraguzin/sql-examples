@@ -6,4 +6,8 @@
 
 ### Логическая схема базы данных:
 
-![Header](https://github.com/AlexeyBaraguzin/AlexeyBaraguzin/blob/main/assets/head_banner_2.png)
+![LSBD](https://github.com/AlexeyBaraguzin/sql-examples/blob/main/assets/left_join_lsbd.jpg)
+
+## Структура и наполнение таблиц
+
+![SNT](https://github.com/AlexeyBaraguzin/sql-examples/blob/main/assets/left_join_snt.jpg)
